@@ -1,3 +1,4 @@
 *.csv
 *.html
 nlp_course_seminars.ipynb
+*.ipynb_checkpoints
